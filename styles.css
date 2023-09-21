@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+header{
+    background-color: #ddd;
+}
+.main{
+    text-align: right;
+    background-color: black;
+   
+}
+ul, li{
+    display: flex; 
+    text-decoration: none;
+    
+}
+li>a{
+    text-decoration: none;
+    padding: 20px;
+    margin: 5px;
+    color: white;
+    text-align: center;
+}
+.heading{
+    width: 100%;
+
+}
